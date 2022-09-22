@@ -1,0 +1,27 @@
+.a1 {
+  background-color: darkgray;
+  border-radius: 5%;
+  padding: 1% 5%;
+  font-size: larger;
+  color: darkred;
+  box-shadow: 5px 10px 10px black;
+}
+.a {
+  background-color: chartreuse;
+  border-radius: 50%;
+  margin: 250px 250px;
+  padding: 3% 7%;
+  font-size: larger;
+  color: aliceblue;
+  box-shadow: 5px 10px 10px black;
+}
+.a1:hover {
+  background-color: rgb(131, 12, 250);
+  cursor: pointer;
+  color: rgb(191, 225, 245);
+}
+button:hover {
+  background-color: aquamarine;
+  cursor: pointer;
+  color: black;
+}
